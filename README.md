@@ -110,13 +110,3 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
----
-
-⭐ If you found this project useful, consider giving it a star!
